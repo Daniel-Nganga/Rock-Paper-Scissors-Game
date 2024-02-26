@@ -118,7 +118,7 @@
   margin: auto;
 }
 
-/* For small devices (phones) */
+/* For small devices (phones) 
 @media only screen and (max-width: 600px) {
   .Main-container {
     width: 90%;
@@ -164,4 +164,4 @@
     width: 80%;
     font-size: 16px;
   }
-}
+}*/
